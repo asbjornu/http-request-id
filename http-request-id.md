@@ -73,7 +73,6 @@ Foo
 
 Aenean nisl purus, tincidunt ac tempor vel, dapibus id metus.
 
---- back
 
 Security Considerations
 =======================
@@ -88,6 +87,8 @@ IANA Considerations
 This memo is a request to IANA to include the specified HTTP header
 in the registry as outlined in Registration Procedures for Message
 Header Fields RFC 3864 {{RFC3864}}.
+
+--- back
 
 Examples  {#xmp}
 ========
