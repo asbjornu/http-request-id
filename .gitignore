@@ -2,3 +2,4 @@
 *.swp
 lib
 draft-http-request-id.xml
+.refcache
